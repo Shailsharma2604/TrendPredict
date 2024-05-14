@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\Parth\Desktop\VS Studio\Stock-Prediction-System-Application\virtualenv
+set VIRTUAL_ENV=C:\Users\shail sharma\.vscode\Django_project\Stock-Prediction-System-Application-main\virtualenv
 
 if not defined PROMPT set PROMPT=$P$G
 

@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Parth\Desktop\VS Studio\Stock-Prediction-System-Application\virtualenv"
+VIRTUAL_ENV="C:\Users\shail sharma\.vscode\Django_project\Stock-Prediction-System-Application-main\virtualenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
